@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870254818918107753/ec209bc42cf549f18b0373b118945553/artifacts
+end_time: 1740708265857
+entry_point_name: ''
+experiment_id: '870254818918107753'
+lifecycle_stage: active
+run_id: ec209bc42cf549f18b0373b118945553
+run_name: charming-mouse-335
+run_uuid: ec209bc42cf549f18b0373b118945553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740708264333
+status: 3
+tags: []
+user_id: adamj

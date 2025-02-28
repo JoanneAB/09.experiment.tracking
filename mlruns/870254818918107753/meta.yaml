@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/870254818918107753
+creation_time: 1740708049178
+experiment_id: '870254818918107753'
+last_update_time: 1740708049178
+lifecycle_stage: active
+name: 'MLFlow: my_elasticnet'

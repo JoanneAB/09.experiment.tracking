@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870254818918107753/89a242cc8c07486997c0df5f4ef7a8ce/artifacts
+end_time: 1740708073353
+entry_point_name: ''
+experiment_id: '870254818918107753'
+lifecycle_stage: active
+run_id: 89a242cc8c07486997c0df5f4ef7a8ce
+run_name: overjoyed-fly-1000
+run_uuid: 89a242cc8c07486997c0df5f4ef7a8ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740708072727
+status: 4
+tags: []
+user_id: adamj

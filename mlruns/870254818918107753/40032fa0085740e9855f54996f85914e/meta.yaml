@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870254818918107753/40032fa0085740e9855f54996f85914e/artifacts
+end_time: 1740708083766
+entry_point_name: ''
+experiment_id: '870254818918107753'
+lifecycle_stage: active
+run_id: 40032fa0085740e9855f54996f85914e
+run_name: burly-shrew-635
+run_uuid: 40032fa0085740e9855f54996f85914e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740708081744
+status: 3
+tags: []
+user_id: adamj
